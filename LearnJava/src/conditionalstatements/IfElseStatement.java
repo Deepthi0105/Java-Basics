@@ -1,4 +1,4 @@
-package basic;
+package conditionalstatements;
 
 public class IfElseStatement {
 
